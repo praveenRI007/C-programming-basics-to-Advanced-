@@ -3,8 +3,8 @@ this repo consists of all fundementals of c++ programming including data structu
 i have divided the contents into 3 parts : 
 - full of c++ basics at deeper level[codes] 
 - data Structures [codes]
-- sorting Algorithms;
-- 
+- sorting Algorithms
+  
 i plan to keep on updating as i learn about c++ more :).
 this repo is dedicated to  all the other fellow programmers out there and myself to brush up my c++ concepts in a hour or two , in case people get out of touch with this language.:):)
 
